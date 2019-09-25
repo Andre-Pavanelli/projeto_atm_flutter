@@ -11,7 +11,7 @@ class _TelaEmpresaState extends State<TelaEmpresa> {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar:
-          AppBar(title: Text("ATM Consultoria"), backgroundColor: Colors.green),
+          AppBar(title: Text("Empresa"), backgroundColor: Colors.green),
       body: Container(
         child: SingleChildScrollView(
           padding: EdgeInsets.all(16),
